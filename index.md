@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎关注CODEASY！
 
-You can use the [editor on GitHub](https://github.com/codeasycc/codeasycc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+codeasy，让编码变得容易。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+请关注公众号：
 
-### Markdown
+![](https://mmbiz.qpic.cn/mmbiz_jpg/FKH7VBhA4DcPRUGgRo2smeBShibfI08FRWH4C3MVNAcHu5SKhbyVb7zNZoemDID3NJMjAGuONjwKGjBNMAWyeTA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codeasycc/codeasycc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
